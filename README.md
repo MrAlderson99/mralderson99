@@ -48,3 +48,5 @@ Software Engineer by training and Product Owner by trade, I work at the intersec
 - 📉 **FIRE Goal:** Optimizing for 35 via technical excellence.
 
 ---
+
+---
