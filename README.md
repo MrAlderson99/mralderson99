@@ -23,13 +23,5 @@ My Master's research at **PPGIA/UFRPE** focuses on **Explainable Artificial Inte
 
 ---
 
-### 📊 Performance Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dracula&count_private=true" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dracula" alt="Langs" height="150" />
-</p>
-
----
-
 ### 🎯 Long-term Alignment
 Optimizing code
