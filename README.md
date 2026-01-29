@@ -48,6 +48,3 @@ Software Engineer by training and Product Owner by trade, I work at the intersec
 - 📉 **FIRE Goal:** Optimizing for 35 via technical excellence.
 
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it." alt="Quote" />
-</p>
